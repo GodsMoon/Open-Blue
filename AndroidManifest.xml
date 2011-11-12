@@ -6,13 +6,25 @@
     <uses-sdk android:minSdkVersion="7" />
 
     <application android:icon="@drawable/icon" android:label="@string/app_name">
-        <activity android:name=".OpenBluActivity"
+        <activity android:name=".OpenBluActivity" android:theme="@android:style/Theme.NoTitleBar"
                   android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        
+        <activity android:name=".SampleActivity" android:theme="@android:style/Theme.NoTitleBar"
+                  android:label="Take a Sample"/>
+        
+        <activity android:name=".MapActivity" android:theme="@android:style/Theme.NoTitleBar"
+                  android:label="Map"/>
+        
+        <activity android:name=".NewsActivity" android:theme="@android:style/Theme.NoTitleBar"
+                  android:label="News"/>
+        
+        <activity android:name=".AboutActivity" android:theme="@android:style/Theme.NoTitleBar"
+                  android:label="About"/>
 
     </application>
 </manifest>
