@@ -8,8 +8,8 @@
     <ImageView
         android:id="@+id/imageView1"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/icon" android:layout_gravity="center_horizontal"/>
+        android:layout_height="170dp"
+        android:src="@drawable/icon" android:layout_gravity="center_horizontal" android:padding="20dp"/>
 
     <LinearLayout
         android:id="@+id/linearLayout1"
@@ -30,7 +30,7 @@
                 <ImageView
                     android:id="@+id/imageView2"
                     android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_height="70dp"
                     android:layout_centerHorizontal="true"
                     android:layout_centerVertical="true"
                     android:src="@drawable/icon" />
@@ -54,7 +54,7 @@
                 <ImageView
                     android:id="@+id/imageView3"
                     android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_height="70dp"
                     android:layout_centerHorizontal="true"
                     android:layout_centerVertical="true"
                     android:src="@drawable/icon" />
@@ -86,7 +86,7 @@
                 <ImageView
                     android:id="@+id/ImageView01"
                     android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_height="70dp"
                     android:layout_centerHorizontal="true"
                     android:layout_centerVertical="true"
                     android:src="@drawable/icon" />
@@ -111,7 +111,7 @@
                 <ImageView
                     android:id="@+id/ImageView02"
                     android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_height="70dp"
                     android:layout_centerHorizontal="true"
                     android:layout_centerVertical="true"
                     android:src="@drawable/icon" />
