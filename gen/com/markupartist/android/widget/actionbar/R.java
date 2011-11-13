@@ -32,15 +32,19 @@ containing a value of this type.
         public static final int actionbar_item_width=0x7f050002;
     }
     public static final class drawable {
-        public static final int actionbar_back_indicator=0x7f020000;
-        public static final int actionbar_background=0x7f020001;
-        public static final int actionbar_btn=0x7f020002;
-        public static final int actionbar_btn_normal=0x7f020003;
-        public static final int actionbar_btn_pressed=0x7f020004;
-        public static final int divider=0x7f020005;
-        public static final int ic_title_home_default=0x7f020006;
-        public static final int icon=0x7f020007;
-        public static final int item_highlight=0x7f020008;
+        public static final int about=0x7f020000;
+        public static final int actionbar_back_indicator=0x7f020001;
+        public static final int actionbar_background=0x7f020002;
+        public static final int actionbar_btn=0x7f020003;
+        public static final int actionbar_btn_normal=0x7f020004;
+        public static final int actionbar_btn_pressed=0x7f020005;
+        public static final int divider=0x7f020006;
+        public static final int ic_title_home_default=0x7f020007;
+        public static final int icon=0x7f020008;
+        public static final int item_highlight=0x7f020009;
+        public static final int maps=0x7f02000a;
+        public static final int news=0x7f02000b;
+        public static final int sample=0x7f02000c;
     }
     public static final class id {
         public static final int ImageView01=0x7f080024;
@@ -48,9 +52,9 @@ containing a value of this type.
         public static final int RelativeLayout1=0x7f08000e;
         public static final int TextView01=0x7f080028;
         public static final int TextView02=0x7f080025;
-        public static final int TextView2=0x7f08002d;
-        public static final int TextView3=0x7f080030;
-        public static final int TextView4=0x7f080033;
+        public static final int TextView2=0x7f08002c;
+        public static final int TextView3=0x7f08002f;
+        public static final int TextView4=0x7f080032;
         public static final int about_area=0x7f080026;
         public static final int actionbar=0x7f080000;
         public static final int actionbar_actions=0x7f080007;
@@ -65,12 +69,12 @@ containing a value of this type.
         public static final int airTemp=0x7f080016;
         public static final int assessment=0x7f080029;
         public static final int assessmentPB=0x7f08002a;
-        public static final int biological=0x7f08002c;
-        public static final int biologicalPB=0x7f08002e;
-        public static final int button1=0x7f080035;
-        public static final int button2=0x7f080036;
-        public static final int chemical=0x7f080032;
-        public static final int chemicalBP=0x7f080034;
+        public static final int biological=0x7f08002b;
+        public static final int biologicalPB=0x7f08002d;
+        public static final int button1=0x7f080034;
+        public static final int button2=0x7f080035;
+        public static final int chemical=0x7f080031;
+        public static final int chemicalBP=0x7f080033;
         public static final int email=0x7f080019;
         public static final int getLocation=0x7f080010;
         public static final int imageView1=0x7f08000d;
@@ -85,9 +89,8 @@ containing a value of this type.
         public static final int name=0x7f080018;
         public static final int news_area=0x7f080023;
         public static final int ph=0x7f080014;
-        public static final int physical=0x7f08002f;
-        public static final int physicalPB=0x7f080031;
-        public static final int recommnedPB=0x7f08002b;
+        public static final int physical=0x7f08002e;
+        public static final int physicalPB=0x7f080030;
         public static final int report=0x7f08001b;
         public static final int sample_area=0x7f08001e;
         public static final int save=0x7f08001c;

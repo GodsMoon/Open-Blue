@@ -10,7 +10,7 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:label="Take a Sample" android:name=".SampleActivity"/>
+        <activity android:label="Survey" android:name=".SampleActivity"/>
         <activity android:label="Map" android:name=".MapActivity"/>
         <activity android:label="News" android:name=".NewsActivity"/>
         <activity android:label="About" android:name=".AboutActivity"/>
